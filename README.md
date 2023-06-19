@@ -4,7 +4,7 @@ This repo contains the notes for the papers I have read &amp; understood and the
 # Papers:
 1. Convex_MPC: Dynamic Locomotion in the MIT Cheetah 3 Through Convex Model-Predictive Control [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8594448)
 2. DribbleBot: Dynamic Legged Manipulation in the wild 
-[[Paper](https://arxiv.org/pdf/2304.01159.pdf)][[Video](https://www.youtube.com/watch?v=1cek5Ypa3TE)][[Code](https://github.com/Improbable-AI/dribblebot)][[Notes](https://github.com/singhaman1750/Research-Paper-Notes/edit/main/README.md#dribblebot-dynamic-legged-manipulation-in-the-wild)]
+[[Paper](https://arxiv.org/pdf/2304.01159.pdf)][[Video](https://www.youtube.com/watch?v=1cek5Ypa3TE)][[Code](https://github.com/Improbable-AI/dribblebot)][[Notes](#dribblebot-dynamic-legged-manipulation-in-the-wild)]
 
 # Notes:
 ## Convex_MPC: Dynamic Locomotion in the MIT Cheetah 3 Through Convex Model-Predictive Control
